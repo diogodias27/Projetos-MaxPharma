@@ -1,0 +1,78 @@
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+c:\users\cliente\documents\visual studio 2012\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.dll
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.xml
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.manifest
+F:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.application
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe.manifest
+F:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.application
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.manifest
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.application
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.dll
+E:\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.xml
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe.manifest
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.application
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+E:\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.manifest
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.application
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe.manifest
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.application
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Desktop\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.application
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\MaxFichaPedidos.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2015\Projects\MaxFichaPedidos\MaxFichaPedidos\obj\Debug\MaxFichaPedidos.application
